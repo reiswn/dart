@@ -40,19 +40,4 @@ void main(){
   Cachorro dog1 = Cachorro("Fiona", 4);
   dog1.comer();
 
-  //Trabalhando com Listas
-  List<String> nomes = ["Willian", "Icaro"];
-
-  print(nomes[0]);
-  nomes.add("Fabio");
-  nomes.removeAt(0);
-  print(nomes[0]);
-
-  //Trabalhando com maps
-  Map<String, dynamic> pessoa = Map();
-
-  pessoa["nome"] = "Marcos";
-  pessoa["idade"] = 53;
-  print(pessoa.keys);
-  print(pessoa.values);
 }
