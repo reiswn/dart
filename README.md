@@ -1,2 +1,3 @@
 # dart
-Repositório de estudos na linguagem Dart
+
+Dart language studies repository
